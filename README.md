@@ -1,3 +1,2 @@
 <h4 align="center">
- 
-![pixels-neon](https://user-images.githubusercontent.com/43131031/138565692-76dcdaa9-cbb2-4cb7-9cc4-7b9b7fe69cb8.gif)
+ ![fraitz-coding-1024](https://user-images.githubusercontent.com/43131031/138565844-778af82b-aba1-49c4-ae78-680b35bd0d9e.gif)
