@@ -14,5 +14,5 @@
 </div>
 
 <h2 align="center">  <br>
-  Olá, eu sou o Matheus!
+  Hi, call me Fraitz!
 </h2>
