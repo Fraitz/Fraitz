@@ -20,8 +20,6 @@
 
 <hr>
 
-
-
 <hr>
 
 <h1 align="left">
@@ -70,6 +68,9 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Fraitz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
   <img width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraitz&layout=compact&langs_count=7&theme=synthwave">
 </div>
+
+<hr>
+<p>Inspired by <a href="https://github.com/RoyMusthang">RoyMusthang</a></p>
 
 
 
