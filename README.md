@@ -67,8 +67,8 @@
 <hr>
 
 <div>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Fraitz&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraitz&layout=compact&langs_count=7&theme=radical">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Fraitz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+  <img width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraitz&layout=compact&langs_count=7&theme=synthwave">
 </div>
 
 
