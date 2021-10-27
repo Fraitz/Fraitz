@@ -13,6 +13,10 @@
   <hr>
 </div>
 
-<h2 align="center">  <br>
-  Hi, call me Fraitz!
-</h2>
+<div align="center">  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=CC0066&size=40&center=true&width=391&height=60&lines=Hi!+Call+me+Fraitz!" />
+</div>
+
+<hr>
+
+
