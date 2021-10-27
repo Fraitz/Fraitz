@@ -24,6 +24,46 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraitz&layout=compact&langs_count=7&theme=synthwave">
 </div>
 
-<h2 align="center">
+<hr>
+
+<h1 align="left">
   Tools & Skills
-</h2>
+</h1>
+<div align="left">
+  <h2 align="left">Management Tools & Skills</h2>
+  <img src="https://s2.glbimg.com/nqDR0x_2cZQD1u-TkJb3T6BHKYA=/0x0:512x512/512x512/s.glbimg.com/po/tt2/f/original/2020/12/04/unnamed.png" alt="notion" width="40" height="40" />
+  <img src="https://yt3.ggpht.com/ytc/AKedOLQKu3tvNaCvJbHzdq1v9RVyjdyRKcQgb-CvJ5qcdw=s900-c-k-c0x00ffffff-no-rj" alt="trello" width="40" height="40" />
+  <img src="https://yt3.ggpht.com/ytc/AKedOLT49zBnyijIduwqGCoJ2ofJ9NM7OE7QnEMRH_Oi=s900-c-k-c0x00ffffff-no-rj" alt="jestor" width="40" height="40" />
+  <img src="https://avatars.slack-edge.com/2019-05-01/612540453362_485caf78505e3b90041d_512.png" alt="clickup" width="40" height="40" />
+  <img src="https://www.monday.com/blog/wp-content/uploads/2018/02/22852120_1266763086768693_6004893502123596052_n.png" alt="monday" width="40" height="40" />
+  <img src="https://static.vecteezy.com/system/resources/previews/002/565/974/original/scrum-icon-vector.jpg" alt="scrum" width="40" height="40" />
+  
+  <h2 align="left">Programming and Computing Tools & Skills</h2>
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" alt="mongodb" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/535/PNG/512/Github-Icon_icon-icons.com_52888.png" alt="github" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="mysql" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png" alt="docker" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/heroku_icon_130912.png" alt="heroku" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="react" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="typescript" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/> 
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40" />
+  <img src="https://testing-library.com/img/octopus-64x64.png" alt="rtl" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" alt="nodejs" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png" alt="jest" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" alt="vim" width="40" height="40" />
+
+  <h2 align="left">UX/UI and Graphic Design Tools & Skills</h2>
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282143-adobe-illustrator-cc-creative-cloud_78298.png" alt="illustrator" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_photoshop_icon_130268.png" alt="photoshop" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282208-adobe-indesign-cc-creative-cloud-desktop-publishing-software-application_78307.png" alt="indesign" width="40" height="40" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/adobe-xd-logo-svg-vector.svg" alt="Adobe Xd" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/1996/PNG/512/collaboration_creative_design_digital_invision_product_workflow_icon_123277.png" alt="invision" width="40" height="40" />
+
+
+</div>
