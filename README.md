@@ -20,13 +20,12 @@
 
 <hr>
 <h1>About Me</h1>
+
 - 🇧🇷 I live in Brazil, in the San Pedro Valley;
-
 - 👨‍💻 I love to learn about technologies and knowledge that enable humanity to evolve as a species and community;
-
 - 📊 I am passionate about management, data and process oriented and a great scholar and enthusiast in this area;
+- 💬 Talk to me about Product Management, Project Management, Freelancing Opportunites, Collaborative Projects;
 
-- 💬 Talk to me about Product Management, Project Management, Freelancing Opportunites, Collaborative Projects, Web Development; 
 <hr>
 
 <h1 align="left">
