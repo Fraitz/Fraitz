@@ -39,6 +39,7 @@
   <img src="https://avatars.slack-edge.com/2019-05-01/612540453362_485caf78505e3b90041d_512.png" alt="clickup" width="40" height="40" />
   <img src="https://www.monday.com/blog/wp-content/uploads/2018/02/22852120_1266763086768693_6004893502123596052_n.png" alt="monday" width="40" height="40" />
   <img src="https://static.vecteezy.com/system/resources/previews/002/565/974/original/scrum-icon-vector.jpg" alt="scrum" width="40" height="40" />
+  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ijpx5jhntmqqd73f8ywt" alt="scrum" width="40" height="40" />
   
   <h2 align="left">Programming and Computing Tools & Skills</h2>
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png" alt="mongodb" width="40" height="40" />
