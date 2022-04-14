@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=CC0066&size=40&center=true&width=391&height=60&lines=Hi!+Call+me+Fraitz!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=CC0066&size=40&center=true&width=391&height=60&lines=Call+me+Fraitz!" />
 </div>
 
 <hr>
